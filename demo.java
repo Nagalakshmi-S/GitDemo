@@ -1,6 +1,6 @@
 import java.util.*;
 class demo{
 public static void main(String[] args){
-system.out.println("hello users!!");
+System.out.println("hello users!!");
 }
 }
